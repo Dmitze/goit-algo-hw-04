@@ -31,8 +31,6 @@ PS C:\Users\dmitz\Documents\GitHub\goit-algo-hw-04> python task_2.py
 
 Об'єднаний відсортований список: [1, 1, 2, 3, 4, 4, 5, 6]
 
-Додатковий тест:
-Списки: [[10, 20, 30], [15, 25], [5, 35, 40]]
-Результат: [5, 10, 15, 20, 25, 30, 35, 40]
+
 PS C:\Users\dmitz\Documents\GitHub\goit-algo-hw-04> 
 ```
