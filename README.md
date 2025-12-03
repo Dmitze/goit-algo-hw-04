@@ -22,10 +22,7 @@
 1000     0.01940         0.00164      0.00007        
 3000     0.18337         0.00580      0.00025        
 
-Висновки:
-1. Insertion Sort повільний на великих даних
-2. Merge Sort швидший за Insertion на великих масивах
-3. Вбудований sorted() (Timsort) найшвидший
+
 PS C:\Users\dmitz\Documents\GitHub\goit-algo-hw-04> python task_2.py                       
 Вхідні списки:
   Список 1: [1, 4, 5]
