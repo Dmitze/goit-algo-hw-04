@@ -66,10 +66,4 @@ def compare_sorting():
         
         print(f"{size:<8} {time_insertion:<15.5f} {time_merge:<12.5f} {time_timsort:<15.5f}")
     
-    print("\nВисновки:")
-    print("1. Insertion Sort повільний на великих даних")
-    print("2. Merge Sort швидший за Insertion на великих масивах")
-    print("3. Вбудований sorted() (Timsort) найшвидший")
-
-if __name__ == "__main__":
-    compare_sorting()
+ 
