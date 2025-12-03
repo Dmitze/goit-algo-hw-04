@@ -38,11 +38,4 @@ def main():
     
     print(f"\nОб'єднаний відсортований список: {merged}")
     
-    # Тестуємо на додаткових даних
-    print("\nДодатковий тест:")
-    more_lists = [[10, 20, 30], [15, 25], [5, 35, 40]]
-    print(f"Списки: {more_lists}")
-    print(f"Результат: {merge_k_lists(more_lists)}")
-
-if __name__ == "__main__":
-    main()
+  
